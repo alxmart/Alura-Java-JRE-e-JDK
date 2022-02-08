@@ -11,8 +11,6 @@ public class TestaPontoFlutuante {
 		System.out.println("O salário é: " + salario);
 		System.out.println(divisao);
 		System.out.println(outraDivisao);
-		System.out.println(outraDivisao);
-		System.out.println(outraDivisao);
 		System.out.println(novaTentativa);
 		
 		
